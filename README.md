@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Prakhar Teotia! 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prakharteotia16/">
+  <a href="https://www.linkedin.com/in/prakhar-teotia16/">
     <img src="https://img.shields.io/badge/LinkedIn-Prakhar%20Teotia-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:prakharteotia77@gmail.com">
@@ -138,5 +138,5 @@ The Patient Management System is a web-based application designed to streamline 
 
 ## 📫 Let's Connect
 - 📧 Email: [prakharteotia77@gmail.com](mailto:prakharteotia77@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/prakharteotia16](https://www.linkedin.com/in/prakharteotia16/)
+- 💼 LinkedIn: [linkedin.com/in/prakharteotia16](https://www.linkedin.com/in/prakhar-teotia16/)
 - 🌐 Portfolio: [https://prakharteotiaportfoli0.netlify.app/](https://prakharteotiaportfoli0.netlify.app/)
