@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Pranav Teotia! 👋</h1>
+<h1 align="center">Hi there, I'm Prakhar Teotia! 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranavteotia77/">
@@ -86,15 +86,26 @@ Engineered a responsive food delivery system with *ReactJS + TailwindCSS*, optim
 Implemented real-time filtering, cart sync, and dynamic content rendering, improving ordering speed by 25%  
 Used async JS for fetching & rendering across devices with 100% compatibility  
 
+🏥 Patient Management System – Project Overview
+The Patient Management System is a web-based application designed to streamline hospital administrative workflows. It provides a centralized platform for managing patient records, appointments, doctor assignments, and billing operations efficiently.
+
+🔧 Features
+👨‍⚕️ Patient Registration – Add, edit, and delete patient information.
+
+📅 Appointment Scheduling – Book and manage doctor-patient appointments.
+
+🩺 Doctor Management – Maintain a list of doctors and their specializations.
+
+🧾 Billing System – Generate and track bills for patient visits and treatments.
+
+🔐 Admin Panel – Secure login system for managing hospital data.
 
 ## 🎓 Certificates
 
-- 🏅 [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1-VY0ZyJv2k1UMdJiE-A1zl63yeZY0sPI/view)
-- ☕ [Java Programming Certificate](https://www.hackerrank.com/certificates/f435610c3dab)
-- 💾 [SQL Proficiency Certificate](https://www.hackerrank.com/certificates/100e2f658093)
-- ⚛ [ReactJS Certification](https://www.hackerrank.com/certificates/bc32d71b2906)
-- 🐍 [Python Certification](https://www.hackerrank.com/certificates/4bb9ecb28f4f)
-- 🧠 [Problem Solving Certificate](https://www.hackerrank.com/certificates/cd6482d8c331)
+- 🏅 [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1o_RpzY2SBh22FFEWWWnsM_u0I4UfT4X_/view?usp=drive_link)
+- ☕ [Java Programming Certificate](https://www.hackerrank.com/certificates/b22811db8c0f)
+- 💾 [SQL Proficiency Certificate](https://www.hackerrank.com/certificates/31bd4287ff3e)
+- 🐍 [Python Certification](https://www.hackerrank.com/certificates/0e7ce62912df)
 
 ## 🏆 Achievements
 
@@ -117,15 +128,15 @@ Used async JS for fetching & rendering across devices with 100% compatibility
 🏫 *Dayawati Modi Academy – CBSE Board*  
 📍 Meerut, Uttar Pradesh  
 🎓 *Class 12 (PCM)* | *2020 – 2021*  
-📈 *Percentage*: 89%  
+📈 *Percentage*: 87%  
 📘 *Subjects*: Physics, Chemistry, Mathematics
 
 🎓 *Class 10* | *2018 – 2019*  
-📈 *Percentage*: 82%
+📈 *Percentage*: 85%
 
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: [pranavteotia77@gmail.com](mailto:pranavteotia77@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/pranavteotia77](https://www.linkedin.com/in/pranavteotia77)
-- 🌐 Portfolio: [pranavteotiaportfolio.netlify.app](https://pranavteotiaportfolio.netlify.app)
+- 📧 Email: [prakharteotia77@gmail.com](mailto:prakharteotia77@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/prakharteotia16](https://www.linkedin.com/in/prakharteotia16)
+- 🌐 Portfolio: [prakharteotiaportfoli0.netlify.app](https://prakharteotiaportfoli0.netlify.app)
